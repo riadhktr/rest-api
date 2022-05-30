@@ -1,0 +1,14 @@
+.formulaire{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: beige;
+    margin-top: 10% ;
+    margin-left: 35%;
+    
+    border: 1px solid black;
+    width: 30%;
+    height: 300px;
+
+
+}
